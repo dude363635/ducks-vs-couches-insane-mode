@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "YDucks vs Couches",
+    "slug": "fun-game",
+    "version": "1.0.0",
+    "sdkVersion": "40.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "./assets/icon.png"
+  }
+}
