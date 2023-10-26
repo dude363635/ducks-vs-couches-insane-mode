@@ -1,0 +1,23 @@
+{
+  "name": "Ducks-vs-Couches",
+  "version": "1.0.0",
+  "description": "A fun game but its INSANE MODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Purdey",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dude363635/ducks-vs-couches-insane-mode"
+  },
+  "bugs": {
+    "url": "https://github.com/dude363635/ducks-vs-couches-insane-mode/issues"
+  },
+  "homepage": "https://github.com/dude363635/ducks-vs-couches-insane-mode#readme",
+  "keywords": [
+    "fun",
+    "game"
+  ]
+}
